@@ -1,0 +1,6 @@
+{
+  "name": "Lady Lebanan",
+  "description": "Exclusive ladies blouse shopping boutique featuring designer collections, custom tailoring guides, shopping bag, and multi-option secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
